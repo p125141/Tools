@@ -1,8 +1,8 @@
 # Tools
 Something about scripts
 ### Debian 12
-<pre><code>wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh
-bash InstallNET.sh -debian 12 -port 22 -pwd Root_Password_Here
+<pre><code>wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/p125141/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh
+bash InstallNET.sh -debian 12 -port 22 -pwd a199232A
 sudo apt update && sudo apt install snapd -y && sudo snap install oracle-cloud-agent --classic</code></pre>
 # Linux reinstall useage
 
